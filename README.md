@@ -29,7 +29,7 @@ Designed for users who need a clean clipboard history without resource overhead 
 ### Option 2: Build from Source
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/sabirakhmedov/Copy-paste.git](https://github.com/sabirakhmedov/Copy-paste.git)
+   git clone https://github.com/sabirakhmedov/Copy-paste.git
 
    Open the project in Xcode.
 Press Cmd + R to build and run.
@@ -39,3 +39,11 @@ Frameworks: SwiftUI, AppKit (NSPasteboard)
 Target Platform: macOS 13.0+
 📄 License
 MIT License — Feel free to modify, distribute, and use for personal or commercial projects.
+
+---
+
+## ☕ Support & Donations
+
+If you find this project helpful and want to support its development, you can send a contribution via USDT:
+
+* **USDT (TRC-20):** `TNFyLq3XeoV4nBXStpV1yaHsuWm1LYjKPa`
